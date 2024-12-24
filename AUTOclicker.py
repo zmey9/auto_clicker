@@ -82,3 +82,4 @@ if __name__ == '__main__':
 
     # Создание интерфейса
     create_interface()
+
